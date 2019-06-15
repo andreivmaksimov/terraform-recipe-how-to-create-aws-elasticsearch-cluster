@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://dev-ops-notes.com/terraform/terraform-recipe-how-to-create-aws-elasticsearch-cluster/" target="_blank"><img src="https://i1.wp.com/dev-ops-notes.com/wp-content/uploads/sites/2/2018/11/Terraform-recipe-How-to-create-AWS-ElasticSearch-cluster.png?w=1024&ssl=1"></a>
+  <a href="https://hands-on.cloud/terraform-recipe-how-to-create-aws-elastic-search-cluster/" target="_blank"><img src="https://raw.githubusercontent.com/hands-on-cloud/hands-on.cloud/master/src/pages/Terraform%20recipe%20-%20How%20to%20create%20AWS%20ElasticSearch%20cluster/Terraform-recipe-How-to-create-AWS-ElasticSearch-cluster.png"></a>
 </p>
 
-This is full source code to the article [Terraform recipe - How to create AWS ElasticSearch cluster](https://dev-ops-notes.com/terraform/terraform-recipe-how-to-create-aws-elasticsearch-cluster/)
+This is full source code to the article [Terraform recipe - How to create AWS ElasticSearch cluster](https://hands-on.cloud/terraform-recipe-how-to-create-aws-elastic-search-cluster/)
 
 ## Launch instructions
 
@@ -16,4 +16,4 @@ terraform plan -var-file=defaults.tfvar
 terraform apply -var-file=defaults.tfvar
 ```
 
-&copy; [Andrei Maksimov](https://www.linkedin.com/in/avmaksimov/) / [Dev-Ops-Notes.com](https://dev-ops-notes.com)
+&copy; [Andrei Maksimov](https://www.linkedin.com/in/avmaksimov/) / [Hands-on.Cloud](https://hands-on.cloud)
