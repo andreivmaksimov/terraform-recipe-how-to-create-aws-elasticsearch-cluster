@@ -6,8 +6,6 @@ This is full source code to the article [Terraform recipe - How to create AWS El
 
 ## Launch instructions
 
-Modify `defaults.tfvar` according to your needs.
-
 Execute the following commands:
 
 ```
